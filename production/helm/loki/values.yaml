@@ -232,7 +232,6 @@ loki:
       admin: admin
     type: s3
     s3:
-      s3: null
       endpoint: null
       region: null
       secretAccessKey: null
